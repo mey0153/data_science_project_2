@@ -77,7 +77,8 @@ target/
 
 # exclude data from source control by default
 /data/
-
+# PDF files
+*.pdf
 # Mac OS-specific storage files
 .DS_Store
 
